@@ -4,7 +4,7 @@ This is a JavaScript class that allows you to quickly create filterable clustere
 
 Give it an array of coordinates objects (latitides and longitudes), along with any information you want to be able to filter on. It will then generate the map, markers and clusters. 
 
-![Google Maps Cluster and Filter](screenshot.png?raw=true)
+![Google Maps Cluster and Filter](screenshot.PNG?raw=true)
 
 ## Usage
 
