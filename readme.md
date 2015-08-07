@@ -77,4 +77,4 @@ This is a starter: much improvements can be made.
 
 The infowindow that pops up needs to be customized in the FilterMap class for each usage. This is not ideal, a way to improve this would be good.
 
-Location objects that are passed to the class have to be in an exact format with "Latidude" and "Longitude" being the object keys. This should be genericized to allow the dev to define what constitutes the lat/long data in their data object.
+Location objects that are passed to the class have to be in an exact format with "Latitude" and "Longitude" being the object keys. This should be genericized to allow the dev to define what constitutes the lat/long data in their data object.
